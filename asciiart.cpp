@@ -50,4 +50,5 @@ int main() {
 
     // Write an action using cout. DON'T FORGET THE "<< endl"
     // To debug: cerr << "Debug messages..." << endl;
+    return 0;
 }
